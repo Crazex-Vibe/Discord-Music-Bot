@@ -8,10 +8,9 @@ Harmony is a Discord music bot built using `discord.py` that streams music from 
 - Queue system for song requests
 - Volume control
 - Skip and remove songs from the queue
-- Auto-disconnect when idle
 
 ## Requirements
-- Python 3.8+
+- Python 3.10+
 - `discord.py`
 - `yt-dlp`
 - `ffmpeg`
