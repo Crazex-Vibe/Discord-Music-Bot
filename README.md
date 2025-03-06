@@ -18,7 +18,7 @@ Harmony is a Discord music bot built using `discord.py` that streams music from 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Crazex_Vibe/Discord-Music-Bot.git
+   git clone https://github.com/Crazex-Vibe/Discord-Music-Bot
    cd Discord-Music-Bot
    ```
 2. Install dependencies:
